@@ -5,27 +5,27 @@ import MealItem from "./MealsItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
-    price: 200,
+    name: "samosa",
+    description: "Take a bite, and feel the delight.",
+    price: 30,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
-    price: 299,
+    name: "pani-puri",
+    description: "Life is too short to say no to pani puri! ...",
+    price: 40,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
-    price: 399,
+    name: "vada pav",
+    description: "Take a delicious bite into Mumbai's iconic delight – Vada Pav!",
+    price: 25,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
-    price: 499,
+    name: "aloo puri",
+    description: "aloo puri - the ultimate street food experience.",
+    price: 35,
   },
 ];
 
